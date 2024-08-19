@@ -1,0 +1,11 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Data"
+    url: /data/
+  - title: "Tasks"
+    url: /tasks/
+  - title: "Evaluation"
+    url: /evaluation/
+  - title: "Leaderboard"
+    url: /leaderboard/

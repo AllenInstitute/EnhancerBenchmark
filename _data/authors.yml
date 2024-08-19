@@ -1,0 +1,17 @@
+# /_data/authors.yml
+BICCN:
+  name        : "BICCN"
+  bio         : "**Enhancer prediction challenge**"
+  website     : "/"
+  avatar      : "/assets/images/biccn-logo-white.png"
+  links:
+    - label: "About"
+      url: /about/
+    - label: "Data"
+      url: /data/
+    - label: "Tasks"
+      url: /tasks/
+    - label: "Evaluation"
+      url: /evaluation/
+    # - label: "Leaderboard"
+    #   url: https://google.com
