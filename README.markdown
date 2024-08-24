@@ -17,7 +17,7 @@ In this competition, teams will predict cell type-specific enhancers using new m
 
 ## Leaderboard
 
--  [Leaderboard](https://github.com/AllenInstitute/EnhancerBenchmark/blob/main/_pages/leaderboard.markdown)
+-  [Leaderboard](https://github.com/AllenInstitute/EnhancerBenchmark/blob/main/_pages/leaderboard.markdown) : Challenge and running leaderboard for new method submissions.
 
 ## Ask a question
 
