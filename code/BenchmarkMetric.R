@@ -16,7 +16,7 @@ coords_to_bed = function(coords){
 }
 
 ## Set working directory where scoring tables are stored (Epi and SSv4)
-setwd("/allen/programs/celltypes/workgroups/rnaseqanalysis/EvoGen/BICCN_Challenge/scoring_tables")
+setwd("./scoring_tables")
 
 #####################################################
 ## Epifolourscence scoring
