@@ -10,7 +10,7 @@ In the BICCN competition, teams predicted cell type-specific enhancers using new
 
 ## Evaluate your method
 
-We designed the benchmark metric for the challenge to be used to evaluate new approaches in the context of the current state-of-the-art enhancer prioritization methods. Following the guidelines in our submissions and data pages please self-evaluate using the benchmark code: . We encourage method developers to then create a pull request to our leaderboard page with your results and submission files.
+We designed the benchmark metric for the challenge to be used to evaluate new approaches in the context of the current state-of-the-art enhancer prioritization methods. Following the guidelines in our submissions and data pages please self-evaluate using the benchmark code available **once the associated papers are published**. We encourage method developers to then create a pull request to our leaderboard page with your results and submission files.
 
 ## Pages
 
