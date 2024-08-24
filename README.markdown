@@ -6,7 +6,7 @@
 
 Single-cell sequencing technologies enable molecular profiling of millions of cells to define atlases, or catalogs, of cell types across tissues and species. Recent advancements enable measurement of multiple genomic features (e.g. RNA and open chromatin) from the same cell. Multi-omic profiling of the brain across species enables high-resolution alignment of ‘homologous’ cell types that have conserved and specialized molecular features (Hodge et al. 2019, Jorstad et al. 2022, Zemke et al. 2023). 
 
-In the BICCN competition, teams predicted cell type-specific enhancers using new multi-omics and multi-species atlases of cell types in the primary motor cortex. Teams were evaluated against in vivo activity of enhancers in the mouse brain from a collection of several hundred enhancers that were experimentally screened [Ben-Simon et al. 2024](https://www.biorxiv.org/content/10.1101/2024.06.10.597244v2]); [addgene](https://www.addgene.org/collections/brain-armamentarium). Progress will serve as a foundation for targeted exploration of cell types in brain circuitry across species.
+In the BICCN competition, teams predicted cell type-specific enhancers using new multi-omics and multi-species atlases of cell types in the primary motor cortex. Teams were evaluated against in vivo activity of enhancers in the mouse brain from a collection of several hundred enhancers that were experimentally screened [Ben-Simon et al. 2024](https://www.biorxiv.org/content/10.1101/2024.06.10.597244v2]](https://doi.org/10.1101/2024.06.10.597244)); [addgene](https://www.addgene.org/collections/brain-armamentarium). Progress will serve as a foundation for targeted exploration of cell types in brain circuitry across species.
 
 ## Evaluate your method
 
