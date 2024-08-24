@@ -47,7 +47,7 @@ https://github.com/ytanaka-bio/cisMultiDeep
 
 https://labshare.cshl.edu/shares/gillislab/resource/HiC
 
-https://github.com/AllenInstitute/EnhancerBenchmark
+[CREsted: Cis Regulatory Element Sequence Training, Explanation, and Design.](https://crested.readthedocs.io/en/latest/)
 
 ## Citation
 
