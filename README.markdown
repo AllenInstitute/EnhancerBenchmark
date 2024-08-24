@@ -38,3 +38,9 @@ We will be using the Github issues page for this website, [found here](https://g
 * U19MH114831-04s1 to J.R.E. and B.R.
 * 5U01MH121282 to J.R.E and M.M.B
 * UM1HG011585 to B.R.
+
+## Citation
+
+If you use the benchmark metric please cite our paper: 
+
+Johansen, N. J., Kempynck, N., (2024). Evaluating Methods for the Prediction of Cell Type-Specific Enhancers in the Mammalian Cortex. bioRxiv, 2024-08. https://doi.org/10.1101/2024.08.21.609075
