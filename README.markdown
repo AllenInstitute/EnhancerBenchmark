@@ -23,9 +23,6 @@ In this competition, teams will predict cell type-specific enhancers using new m
 
 We will be using the Github issues page for this website, [found here](https://github.com/AllenInstitute/EnhancerBenchmark/issues), as a means for discussion and questions regarding the challenge. 
 
-## Join the challenge!
-Now that the challenge has started, any additional teams wishing to join should reach out to nelson.johansen@alleninstitute.org. 
-
 ## Organizing committee
 
 | | | | |
