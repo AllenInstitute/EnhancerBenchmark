@@ -55,4 +55,4 @@ https://labshare.cshl.edu/shares/gillislab/resource/HiC
 
 ## Citation
 
-`Johansen, N. J., Kempynck, N., (2024). Evaluating Methods for the Prediction of Cell Type-Specific Enhancers in the Mammalian Cortex. bioRxiv, 2024-08. https://doi.org/10.1101/2024.08.21.609075`
+[Johansen, N. J., Kempynck, N., (2024). Evaluating Methods for the Prediction of Cell Type-Specific Enhancers in the Mammalian Cortex. bioRxiv, 2024-08. https://doi.org/10.1101/2024.08.21.609075](https://doi.org/10.1101/2024.08.21.609075)
