@@ -61,7 +61,10 @@ For each of the four species you will find:
 Please feel free to reach out with any additional questions or data requests.
 
 ## Genome Assemblies and Annotations:
-* Homo sapiens (Human): GRCh38 (hg38), annotation: hg38 Gencode v33
-* Mus musculus (Mouse): GRCm38 (mm10), annotation: mm10 Gencode vM22
-* Macaca mulatta (Rhesus monkey): Mmul_10 (rheMac10), annotation: Ensembl release 104
-* Callithrix jacchus (white-tufted-ear marmoset): cj1700_1.1 (calJac4), annotation: GCA_009663435.2
+* Homo sapiens (Human): [GRCh38 (hg38)](http://ftp.ensembl.org/pub/release-109/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz), annotation: hg38 Gencode v33
+* Mus musculus (Mouse): [GRCm38 (mm10)](http://ftp.ensembl.org/pub/release-98/fasta/mus_musculus/dna/Mus_musculus.GRCm38.dna.primary_assembly.fa.gz), annotation: mm10 Gencode vM22
+* Macaca mulatta (Rhesus monkey): [Mmul_10 (rheMac10)](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/339/765/GCF_003339765.1_Mmul_10/GCF_003339765.1_Mmul_10_genomic.fna.gz), annotation: Ensembl release 104
+* Callithrix jacchus (white-tufted-ear marmoset): [cj1700_1.1 (calJac4)](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/663/435/GCF_009663435.1_Callithrix_jacchus_cj1700_1.1/GCF_009663435.1_Callithrix_jacchus_cj1700_1.1_genomic.fna.gz
+), annotation: GCA_009663435.2
+
+
