@@ -16,7 +16,7 @@ coords_to_bed = function(coords){
 }
 
 ## Set working directory where scoring tables are stored (Epi and SSv4)
-setwd("./scoring_tables")
+setwd("./assets/validation_tables")
 
 #####################################################
 ## Epifolourscence scoring
@@ -202,7 +202,7 @@ biccn_scoring = function(bed.file, epi.score.table, ssv4.score.table){
 ## EXAMPLE
 
 ##
-# bed.file = read.csv("/allen/programs/celltypes/workgroups/rnaseqanalysis/EvoGen/BICCN_Challenge/ArchR/results_full_update.csv")
+# bed.file = read.csv("./assets/ArchR_example/results_full_update.csv")
 
 ## Run scoring
 # scored.bed = biccn_scoring(bed.file, epi.score.table, ssv4.score.table)
